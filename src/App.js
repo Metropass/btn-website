@@ -11,8 +11,12 @@ function App() {
     >
       <div>
     <div className="App">
-    <embed src="https://Metropass.github.io/btn-website/d2.pdf" type="application/pdf" width="1920" height="1080"/>
+      <div>
+    <embed width="1920" height="1080" src="https://Metropass.github.io/btn-website/d2.pdf" type="application/pdf" />
+    </div>
+    <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/aKDRPIQrC8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
     </div>
     </div>
     </Protect>
