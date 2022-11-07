@@ -11,7 +11,7 @@ function App() {
     >
       <div>
     <div className="App">
-    <iframe src="https://seneca-my.sharepoint.com/personal/mahmed171_myseneca_ca/_layouts/15/embed.aspx?UniqueId=8aaf3b86-2ec4-4366-8599-f5ed8640502f&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="1280" height="720" frameborder="0" scrolling="no" allowfullscreen title="btn-final-work.mp4"></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/aKDRPIQrC8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     </div>
     </Protect>
