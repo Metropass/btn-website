@@ -11,20 +11,7 @@ function App() {
     >
       <div>
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <iframe src="https://seneca-my.sharepoint.com/personal/mahmed171_myseneca_ca/_layouts/15/embed.aspx?UniqueId=8aaf3b86-2ec4-4366-8599-f5ed8640502f&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="1280" height="720" frameborder="0" scrolling="no" allowfullscreen title="btn-final-work.mp4"></iframe>
     </div>
     </div>
     </Protect>
