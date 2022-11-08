@@ -11,7 +11,9 @@ function App() {
     >
       <div>
     <div className="App">
-     
+     <div>
+     <embed  src="https://Metropass.github.io/btn-website/d2.pdf" type="application/pdf" width="1080" height="720"/>
+     </div>
    
     
     <div>
@@ -24,4 +26,4 @@ function App() {
 }
 
 export default App;
-//<embed  src="https://Metropass.github.io/btn-website/d2.pdf" type="application/pdf" width="1080" height="720"/>
+//
