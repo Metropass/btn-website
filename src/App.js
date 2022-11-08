@@ -11,6 +11,7 @@ function App() {
     >
       <div>
     <div className="App">
+      <h1>Our Simple Website for BTN710</h1>
      <div>
      <embed  src="https://Metropass.github.io/btn-website/d2.pdf" type="application/pdf" width="1080" height="720"/>
      </div>
